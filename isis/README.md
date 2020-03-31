@@ -10,6 +10,8 @@ This repository provides the replication code and (where possible) data replicat
 
 * "ISIS’s clash of civilizations: Constructing the “West” in terrorist Propaganda." Stephane J. Baele, Gregorio Bettiza, Katharine A. Boyd, and Travis G. Coan. *Studies in Conflict & Terrorism*, 2019. https://doi.org/10.1080/1057610X.2019.1599192.
 
+This work was funded by the [Centre for Research and Evidence on Security (CREST)](www.crestresearch.ac.uk) (ES/N009614/1).
+
 ### Contents
 
 We provide the relevant data and code in two subdirectories:
