@@ -16,5 +16,5 @@ This work was funded by the [Centre for Research and Evidence on Security (CREST
 
 We provide the relevant data and code in two subdirectories:
 
-* [magazines/](https://github.com/traviscoan/extremist_communication/isis/magazines): We include relevant code/data used to study [images](https://github.com/traviscoan/extremist_communication/isis/magazines/images) and [text](https://github.com/traviscoan/extremist_communication/isis/magazines/text) from Dabiq and Rumiyah magazines.
-* [videos/](https://github.com/traviscoan/extremist_communication/isis/videos): We provide the script used to crawl and download videos from https://jihadology.net, as well as relevant meta-data used in Chapter 4 of *ISIS Propaganda*.
+* [magazines/](https://github.com/traviscoan/extremist_communication/isis/magazines): We include relevant code/data used to study [images](https://github.com/traviscoan/extremist_communication/isis/magazines/images) and [text](https://github.com/traviscoan/extremist_communication/tree/master/isis/magazines/text) from Dabiq and Rumiyah magazines.
+* [videos/](https://github.com/traviscoan/extremist_communication/tree/master/isis/videos): We provide the script used to crawl and download videos from https://jihadology.net, as well as relevant meta-data used in Chapter 4 of *ISIS Propaganda*.
